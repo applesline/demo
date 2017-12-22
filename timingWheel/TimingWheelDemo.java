@@ -8,6 +8,8 @@ import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
 /**
+ * TimingWheel 重写了toString()方法，这样可以方便看到TimingWheel的真实数据结构，实际引用TimeWheel时建议删除toString()
+ *
  * @author liuyaping 创建日期：2017年12月22日
  *
  */
