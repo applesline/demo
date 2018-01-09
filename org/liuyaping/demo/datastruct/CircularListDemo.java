@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.liuyaping.demo.pattern;
+package org.liuyaping.demo.datastruct;
 
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;
