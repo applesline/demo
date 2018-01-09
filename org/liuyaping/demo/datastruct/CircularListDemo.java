@@ -48,6 +48,7 @@ public class CircularListDemo {
 		}
 		countDownLatch.await();
 		System.out.println(CircularList.valueMap);
+		executor.shutdown();
 	}
 	
 }
