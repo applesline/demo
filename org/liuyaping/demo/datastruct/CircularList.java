@@ -9,11 +9,11 @@ import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * å¾ªçŽ¯åˆ—è¡¨
+ * Ñ­»·ÁÐ±í
  * 
  * @author liuyaping
  *
- * åˆ›å»ºæ—¶é—´ï¼š2018å¹´1æœˆ5æ—¥
+ * ´´½¨Ê±¼ä£º2018Äê1ÔÂ5ÈÕ
  */
 public class CircularList {
 
